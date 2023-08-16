@@ -1,0 +1,37 @@
+#navBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: #333; */
+    padding: 10px;
+    
+}
+#navBar a {
+    color: white;
+    text-decoration: none;
+}
+#navBar a:hover {
+    color: lightgray;
+}
+#stockChart {
+    max-width: 100%;
+    height: auto;
+}
+#SMA{
+    width: 20%;
+    padding: 150px;
+}
+#Save{
+    width: 20%;
+    padding-left: 250px;
+}
+body{
+    background-color: #ffc0cb;
+    border-bottom: 10px orange ;
+    border-top: 10px orange;
+    border-left: 10px orange;
+    border-right: 10px orange;
+    border-style: solid;
+    /* border-bottom-width: 750px ; */
+    border-radius: 10px;
+}
