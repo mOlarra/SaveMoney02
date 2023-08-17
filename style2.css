@@ -14,7 +14,9 @@
     /* width: 10px; */
 }
 
-
+#game{
+    width: 10%;
+}
 
 #SMA{
     /* justify-self: center; */
